@@ -1,4 +1,5 @@
-simple todo list 
+## Rock-paper-scissor-game
+
 html
 css
 js
